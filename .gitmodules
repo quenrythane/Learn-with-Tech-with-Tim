@@ -1,0 +1,3 @@
+[submodule "Curses"]
+	path = Curses
+	url = https://github.com/quenrythane/Curses-with-TWT.git
